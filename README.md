@@ -13,7 +13,8 @@
 
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🏢 I'm Currently Learning C++ 
+- 🏢 Currently Learning Cpp.
+- ⚡ I'm a student at Pharaos Academy.
 
 
 ### 🛠 &nbsp;Tech Stack
