@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Computer+Science+Student+" alt="[Your GIF](https://git.io/typing-svg)" width="440" height="45">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Autour+One&duration=4500&pause=1000&color=F70000&width=435&lines=I'm+a+Computer+Science+Student+" alt="[Your GIF](https://git.io/typing-svg)" width="440" height="45">
   </a>
 </p>
 
