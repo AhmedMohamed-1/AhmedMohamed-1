@@ -27,15 +27,13 @@
 
 
 
-## :link: Links
+### Connect with Me :
 
-<p align="center">
-  <a href="mailto:Ahmedmohamed.a5562@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/ahmed-mohamed-0a6086285/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-</p>
+<a href="https://www.linkedin.com/in/ahmed-mohamed-0a6086285/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Ahmedmohamed.a5562@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="190" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
